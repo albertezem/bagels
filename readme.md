@@ -29,7 +29,9 @@ The guesser's job is to get the answer in as few guesses as possible.
 
 ## Quick Start
 
-To interact with the bots, simply run interface.py. You can do that by pressing the play button
+First, might need to run ```pip install -r requirements.txt``` in terminal.
+
+Then, to interact with the bots, simply run interface.py. You can do that by pressing the play button
 in the top right, or by typing ``python3 interface.py`` in your terminal. You will be presented
 with a list of options.
 
