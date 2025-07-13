@@ -1,0 +1,1326 @@
+{
+    "best_guess": "012",
+    "value": "3.63335",
+    "response": {
+        "(0, 1, 0)": {
+            "best_guess": "134",
+            "value": "2.88889",
+            "response": {
+                "(0, 1, 0)": {
+                    "best_guess": "325",
+                    "value": "2.18182",
+                    "response": {
+                        "(0, 1, 1)": {
+                            "best_guess": "245",
+                            "value": "1.5",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "245",
+                                    "value": "0",
+                                    "response": {}
+                                },
+                                "(0, 1, 0)": {
+                                    "best_guess": "350",
+                                    "value": "1",
+                                    "response": {
+                                        "(0, 0, 3)": {
+                                            "best_guess": "350",
+                                            "value": "0",
+                                            "response": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "(0, 1, 0)": {
+                            "best_guess": "450",
+                            "value": "1.5",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "450",
+                                    "value": "0",
+                                    "response": {}
+                                },
+                                "(0, 2, 1)": {
+                                    "best_guess": "540",
+                                    "value": "1",
+                                    "response": {
+                                        "(0, 0, 3)": {
+                                            "best_guess": "540",
+                                            "value": "0",
+                                            "response": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "(0, 0, 2)": {
+                            "best_guess": "425",
+                            "value": "1.5",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "425",
+                                    "value": "0",
+                                    "response": {}
+                                },
+                                "(0, 0, 1)": {
+                                    "best_guess": "305",
+                                    "value": "1",
+                                    "response": {
+                                        "(0, 0, 3)": {
+                                            "best_guess": "305",
+                                            "value": "0",
+                                            "response": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "325",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "503",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "503",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 3, 0)": {
+                            "best_guess": "253",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "253",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 1)": {
+                            "best_guess": "405",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "405",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 2, 1)": {
+                            "best_guess": "523",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "523",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 2, 0)": {
+                    "best_guess": "340",
+                    "value": "2.00000",
+                    "response": {
+                        "(0, 0, 1)": {
+                            "best_guess": "541",
+                            "value": "1.5",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "541",
+                                    "value": "0",
+                                    "response": {}
+                                },
+                                "(0, 1, 1)": {
+                                    "best_guess": "351",
+                                    "value": "1",
+                                    "response": {
+                                        "(0, 0, 3)": {
+                                            "best_guess": "351",
+                                            "value": "0",
+                                            "response": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "243",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "243",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "423",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "423",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "340",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 3, 0)": {
+                            "best_guess": "403",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "403",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 1, 0)": {
+                            "best_guess": "451",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "451",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 1, 1)": {
+                    "best_guess": "430",
+                    "value": "2.00000",
+                    "response": {
+                        "(0, 1, 0)": {
+                            "best_guess": "153",
+                            "value": "1.5",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "153",
+                                    "value": "0",
+                                    "response": {}
+                                },
+                                "(0, 1, 1)": {
+                                    "best_guess": "145",
+                                    "value": "1",
+                                    "response": {
+                                        "(0, 0, 3)": {
+                                            "best_guess": "145",
+                                            "value": "0",
+                                            "response": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "430",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 3, 0)": {
+                            "best_guess": "304",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "304",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 1)": {
+                            "best_guess": "531",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "531",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "324",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "324",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 1)": {
+                    "best_guess": "524",
+                    "value": "1.8",
+                    "response": {
+                        "(0, 0, 1)": {
+                            "best_guess": "530",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "530",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 2)": {
+                            "best_guess": "504",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "504",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 2, 1)": {
+                            "best_guess": "254",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "254",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "524",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "235",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "235",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 2)": {
+                    "best_guess": "135",
+                    "value": "1.66667",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "135",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 0, 1)": {
+                            "best_guess": "234",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "234",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "154",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "154",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 2, 1)": {
+                    "best_guess": "431",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "431",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 3, 0)": {
+                            "best_guess": "143",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "143",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 3, 0)": {
+                    "best_guess": "341",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "341",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                },
+                "(0, 0, 3)": {
+                    "best_guess": "134",
+                    "value": "0",
+                    "response": {}
+                }
+            }
+        },
+        "(0, 2, 0)": {
+            "best_guess": "123",
+            "value": "2.74076",
+            "response": {
+                "(0, 0, 1)": {
+                    "best_guess": "104",
+                    "value": "1.83334",
+                    "response": {
+                        "(0, 0, 2)": {
+                            "best_guess": "105",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "105",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "104",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 1, 0)": {
+                            "best_guess": "520",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "520",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "420",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "420",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 2, 1)": {
+                            "best_guess": "140",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "140",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "150",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "150",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 1, 0)": {
+                    "best_guess": "240",
+                    "value": "1.83334",
+                    "response": {
+                        "(0, 2, 0)": {
+                            "best_guess": "401",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "401",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 2)": {
+                            "best_guess": "250",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "250",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 2, 1)": {
+                            "best_guess": "204",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "204",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 1, 0)": {
+                            "best_guess": "501",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "501",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "240",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "205",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "205",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 1, 1)": {
+                    "best_guess": "130",
+                    "value": "2.00",
+                    "response": {
+                        "(0, 1, 0)": {
+                            "best_guess": "421",
+                            "value": "1.5",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "421",
+                                    "value": "0",
+                                    "response": {}
+                                },
+                                "(0, 0, 2)": {
+                                    "best_guess": "521",
+                                    "value": "1",
+                                    "response": {
+                                        "(0, 0, 3)": {
+                                            "best_guess": "521",
+                                            "value": "0",
+                                            "response": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "130",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "203",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "203",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "320",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "320",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 2, 0)": {
+                    "best_guess": "230",
+                    "value": "2.00",
+                    "response": {
+                        "(0, 0, 1)": {
+                            "best_guess": "251",
+                            "value": "1.5",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "251",
+                                    "value": "0",
+                                    "response": {}
+                                },
+                                "(0, 0, 2)": {
+                                    "best_guess": "241",
+                                    "value": "1",
+                                    "response": {
+                                        "(0, 0, 3)": {
+                                            "best_guess": "241",
+                                            "value": "0",
+                                            "response": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "230",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "301",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "301",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 2)": {
+                    "best_guess": "124",
+                    "value": "1.66667",
+                    "response": {
+                        "(0, 0, 2)": {
+                            "best_guess": "125",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "125",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 1)": {
+                            "best_guess": "103",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "103",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "124",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                },
+                "(0, 3, 0)": {
+                    "best_guess": "231",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "231",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                },
+                "(0, 0, 3)": {
+                    "best_guess": "123",
+                    "value": "0",
+                    "response": {}
+                },
+                "(0, 2, 1)": {
+                    "best_guess": "321",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "321",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                }
+            }
+        },
+        "(0, 1, 1)": {
+            "best_guess": "023",
+            "value": "2.55557",
+            "response": {
+                "(0, 1, 0)": {
+                    "best_guess": "214",
+                    "value": "1.83334",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "214",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 0, 1)": {
+                            "best_guess": "510",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "510",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "410",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "410",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 2)": {
+                            "best_guess": "215",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "215",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "152",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "152",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 3, 0)": {
+                            "best_guess": "142",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "142",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 2, 0)": {
+                    "best_guess": "402",
+                    "value": "1.75",
+                    "response": {
+                        "(0, 0, 2)": {
+                            "best_guess": "502",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "502",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 1, 0)": {
+                            "best_guess": "310",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "310",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 1)": {
+                            "best_guess": "132",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "132",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "402",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                },
+                "(0, 1, 1)": {
+                    "best_guess": "031",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "031",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "213",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "213",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 2)": {
+                    "best_guess": "024",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "024",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 0, 2)": {
+                            "best_guess": "025",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "025",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 1)": {
+                    "best_guess": "051",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "051",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 0, 2)": {
+                            "best_guess": "041",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "041",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 3, 0)": {
+                    "best_guess": "302",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "302",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                },
+                "(0, 0, 3)": {
+                    "best_guess": "023",
+                    "value": "0",
+                    "response": {}
+                }
+            }
+        },
+        "(0, 0, 1)": {
+            "best_guess": "034",
+            "value": "2.61113",
+            "response": {
+                "(0, 1, 0)": {
+                    "best_guess": "513",
+                    "value": "1.83334",
+                    "response": {
+                        "(0, 1, 0)": {
+                            "best_guess": "452",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "452",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "415",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "415",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "352",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "352",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 1)": {
+                            "best_guess": "542",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "542",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "513",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 2, 1)": {
+                            "best_guess": "315",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "315",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 1, 1)": {
+                    "best_guess": "045",
+                    "value": "2.00",
+                    "response": {
+                        "(0, 1, 0)": {
+                            "best_guess": "432",
+                            "value": "1.5",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "432",
+                                    "value": "0",
+                                    "response": {}
+                                },
+                                "(0, 2, 0)": {
+                                    "best_guess": "314",
+                                    "value": "1",
+                                    "response": {
+                                        "(0, 0, 3)": {
+                                            "best_guess": "314",
+                                            "value": "0",
+                                            "response": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "045",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "053",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "053",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 2)": {
+                    "best_guess": "054",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "054",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "035",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "035",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 2, 0)": {
+                    "best_guess": "413",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "413",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 2, 0)": {
+                            "best_guess": "342",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "342",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 1)": {
+                    "best_guess": "532",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "532",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 0, 1)": {
+                            "best_guess": "514",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "514",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 3)": {
+                    "best_guess": "034",
+                    "value": "0",
+                    "response": {}
+                },
+                "(0, 2, 1)": {
+                    "best_guess": "043",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "043",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                }
+            }
+        },
+        "(0, 0, 2)": {
+            "best_guess": "023",
+            "value": "2.33333",
+            "response": {
+                "(0, 1, 1)": {
+                    "best_guess": "042",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "042",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 0, 2)": {
+                            "best_guess": "052",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "052",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 1, 0)": {
+                    "best_guess": "412",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "412",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 0, 2)": {
+                            "best_guess": "512",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "512",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 1)": {
+                    "best_guess": "015",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "015",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 0, 2)": {
+                            "best_guess": "014",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "014",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 2, 1)": {
+                    "best_guess": "032",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "032",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                },
+                "(0, 0, 2)": {
+                    "best_guess": "013",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "013",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                },
+                "(0, 2, 0)": {
+                    "best_guess": "312",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "312",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                }
+            }
+        },
+        "(1, 0, 0)": {
+            "best_guess": "345",
+            "value": "2.50000",
+            "response": {
+                "(0, 2, 1)": {
+                    "best_guess": "354",
+                    "value": "2.00000",
+                    "response": {
+                        "(0, 3, 0)": {
+                            "best_guess": "435",
+                            "value": "1.5",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "435",
+                                    "value": "0",
+                                    "response": {}
+                                },
+                                "(0, 3, 0)": {
+                                    "best_guess": "543",
+                                    "value": "1",
+                                    "response": {
+                                        "(0, 0, 3)": {
+                                            "best_guess": "543",
+                                            "value": "0",
+                                            "response": {}
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "(0, 0, 3)": {
+                            "best_guess": "354",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                },
+                "(0, 3, 0)": {
+                    "best_guess": "534",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "534",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 3, 0)": {
+                            "best_guess": "453",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "453",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 3)": {
+                    "best_guess": "345",
+                    "value": "0",
+                    "response": {}
+                }
+            }
+        },
+        "(0, 2, 1)": {
+            "best_guess": "021",
+            "value": "2.00000",
+            "response": {
+                "(0, 3, 0)": {
+                    "best_guess": "102",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "102",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 3, 0)": {
+                            "best_guess": "210",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "210",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 3)": {
+                    "best_guess": "021",
+                    "value": "0",
+                    "response": {}
+                }
+            }
+        },
+        "(0, 3, 0)": {
+            "best_guess": "120",
+            "value": "1.5",
+            "response": {
+                "(0, 0, 3)": {
+                    "best_guess": "120",
+                    "value": "0",
+                    "response": {}
+                },
+                "(0, 3, 0)": {
+                    "best_guess": "201",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "201",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                }
+            }
+        },
+        "(0, 0, 3)": {
+            "best_guess": "012",
+            "value": "0",
+            "response": {}
+        }
+    }
+}

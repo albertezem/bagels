@@ -1,0 +1,66 @@
+{
+    "best_guess": "012",
+    "value": "2.50000",
+    "response": {
+        "(0, 2, 1)": {
+            "best_guess": "021",
+            "value": "2.00000",
+            "response": {
+                "(0, 3, 0)": {
+                    "best_guess": "102",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "102",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 3, 0)": {
+                            "best_guess": "210",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "210",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 3)": {
+                    "best_guess": "021",
+                    "value": "0",
+                    "response": {}
+                }
+            }
+        },
+        "(0, 3, 0)": {
+            "best_guess": "201",
+            "value": "1.5",
+            "response": {
+                "(0, 0, 3)": {
+                    "best_guess": "201",
+                    "value": "0",
+                    "response": {}
+                },
+                "(0, 3, 0)": {
+                    "best_guess": "120",
+                    "value": "1",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "120",
+                            "value": "0",
+                            "response": {}
+                        }
+                    }
+                }
+            }
+        },
+        "(0, 0, 3)": {
+            "best_guess": "012",
+            "value": "0",
+            "response": {}
+        }
+    }
+}
