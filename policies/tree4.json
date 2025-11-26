@@ -10,6 +10,17 @@
                     "best_guess": "130",
                     "value": "1.66667",
                     "response": {
+                        "(0, 1, 1)": {
+                            "best_guess": "320",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "320",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        },
                         "(0, 2, 0)": {
                             "best_guess": "203",
                             "value": "1",
@@ -25,13 +36,24 @@
                             "best_guess": "130",
                             "value": "0",
                             "response": {}
+                        }
+                    }
+                },
+                "(0, 2, 0)": {
+                    "best_guess": "230",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "230",
+                            "value": "0",
+                            "response": {}
                         },
-                        "(0, 1, 1)": {
-                            "best_guess": "320",
+                        "(0, 2, 0)": {
+                            "best_guess": "301",
                             "value": "1",
                             "response": {
                                 "(0, 0, 3)": {
-                                    "best_guess": "320",
+                                    "best_guess": "301",
                                     "value": "0",
                                     "response": {}
                                 }
@@ -39,25 +61,19 @@
                         }
                     }
                 },
-                "(0, 2, 0)": {
-                    "best_guess": "301",
-                    "value": "1.5",
+                "(0, 0, 3)": {
+                    "best_guess": "123",
+                    "value": "0",
+                    "response": {}
+                },
+                "(0, 2, 1)": {
+                    "best_guess": "321",
+                    "value": "1",
                     "response": {
                         "(0, 0, 3)": {
-                            "best_guess": "301",
+                            "best_guess": "321",
                             "value": "0",
                             "response": {}
-                        },
-                        "(0, 2, 0)": {
-                            "best_guess": "230",
-                            "value": "1",
-                            "response": {
-                                "(0, 0, 3)": {
-                                    "best_guess": "230",
-                                    "value": "0",
-                                    "response": {}
-                                }
-                            }
                         }
                     }
                 },
@@ -71,22 +87,6 @@
                             "response": {}
                         }
                     }
-                },
-                "(0, 2, 1)": {
-                    "best_guess": "321",
-                    "value": "1",
-                    "response": {
-                        "(0, 0, 3)": {
-                            "best_guess": "321",
-                            "value": "0",
-                            "response": {}
-                        }
-                    }
-                },
-                "(0, 0, 3)": {
-                    "best_guess": "123",
-                    "value": "0",
-                    "response": {}
                 },
                 "(0, 0, 2)": {
                     "best_guess": "103",
@@ -128,31 +128,26 @@
                     }
                 },
                 "(0, 1, 1)": {
-                    "best_guess": "213",
+                    "best_guess": "031",
                     "value": "1.5",
                     "response": {
                         "(0, 0, 3)": {
-                            "best_guess": "213",
+                            "best_guess": "031",
                             "value": "0",
                             "response": {}
                         },
                         "(0, 2, 0)": {
-                            "best_guess": "031",
+                            "best_guess": "213",
                             "value": "1",
                             "response": {
                                 "(0, 0, 3)": {
-                                    "best_guess": "031",
+                                    "best_guess": "213",
                                     "value": "0",
                                     "response": {}
                                 }
                             }
                         }
                     }
-                },
-                "(0, 0, 3)": {
-                    "best_guess": "023",
-                    "value": "0",
-                    "response": {}
                 },
                 "(0, 3, 0)": {
                     "best_guess": "302",
@@ -164,37 +159,9 @@
                             "response": {}
                         }
                     }
-                }
-            }
-        },
-        "(0, 0, 2)": {
-            "best_guess": "013",
-            "value": "2.00000",
-            "response": {
-                "(0, 1, 1)": {
-                    "best_guess": "312",
-                    "value": "1.5",
-                    "response": {
-                        "(0, 0, 3)": {
-                            "best_guess": "312",
-                            "value": "0",
-                            "response": {}
-                        },
-                        "(0, 1, 1)": {
-                            "best_guess": "032",
-                            "value": "1",
-                            "response": {
-                                "(0, 0, 3)": {
-                                    "best_guess": "032",
-                                    "value": "0",
-                                    "response": {}
-                                }
-                            }
-                        }
-                    }
                 },
                 "(0, 0, 3)": {
-                    "best_guess": "013",
+                    "best_guess": "023",
                     "value": "0",
                     "response": {}
                 }
@@ -205,20 +172,20 @@
             "value": "2.00000",
             "response": {
                 "(0, 3, 0)": {
-                    "best_guess": "102",
+                    "best_guess": "210",
                     "value": "1.5",
                     "response": {
                         "(0, 0, 3)": {
-                            "best_guess": "102",
+                            "best_guess": "210",
                             "value": "0",
                             "response": {}
                         },
                         "(0, 3, 0)": {
-                            "best_guess": "210",
+                            "best_guess": "102",
                             "value": "1",
                             "response": {
                                 "(0, 0, 3)": {
-                                    "best_guess": "210",
+                                    "best_guess": "102",
                                     "value": "0",
                                     "response": {}
                                 }
@@ -228,6 +195,39 @@
                 },
                 "(0, 0, 3)": {
                     "best_guess": "021",
+                    "value": "0",
+                    "response": {}
+                }
+            }
+        },
+        "(0, 0, 2)": {
+            "best_guess": "013",
+            "value": "2.00000",
+            "response": {
+                "(0, 1, 1)": {
+                    "best_guess": "032",
+                    "value": "1.5",
+                    "response": {
+                        "(0, 0, 3)": {
+                            "best_guess": "032",
+                            "value": "0",
+                            "response": {}
+                        },
+                        "(0, 1, 1)": {
+                            "best_guess": "312",
+                            "value": "1",
+                            "response": {
+                                "(0, 0, 3)": {
+                                    "best_guess": "312",
+                                    "value": "0",
+                                    "response": {}
+                                }
+                            }
+                        }
+                    }
+                },
+                "(0, 0, 3)": {
+                    "best_guess": "013",
                     "value": "0",
                     "response": {}
                 }

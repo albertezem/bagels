@@ -5,7 +5,9 @@ def main():
     name = input("What name do you go by?")
     t = True
     while t:
-        print("What do you want to do? Enter the number corresponding with your choice")
+        print(
+            "Wh3at do you want to do? Enter the number corresponding with your choice"
+        )
         print("1: Play a game as guesser")
         print("2: Play a game as responder")
         print("3: Play a game as guesser in training mode")
@@ -71,10 +73,10 @@ def main():
             print("Here, you play 10 games, which we use to estimate your skills.")
             test_human_performance()
             print(
-                "For comparison, the best bot we have seen so far has an average guess rate of 5.02, and takes at most 7 guesses to win"
+                "For comparison, the Entropy bot so far has an average guess rate of 5.02, and takes at most 7 guesses to win"
             )
             print(
-                "A different bot has an average guess rate of 5.12, but takes at most 6 guesses."
+                "and the Minimax bot has an average guess rate of 5.12, but takes at most 6 guesses."
             )
 
         elif x == "6":

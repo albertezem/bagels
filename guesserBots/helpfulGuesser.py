@@ -2,6 +2,9 @@ from guesser import Guesser
 from math import log2
 
 class HelpfulGuesser(Guesser):
+    """
+    Human guesser object. Tells you the optimal guess as well as the amount of entropy lost with your guess.
+    """
     def __init__(self, name) -> None:
         super().__init__(name)
         self.luck = 0

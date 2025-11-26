@@ -7,6 +7,8 @@ from decimal import *
 getcontext().prec = 6
 getcontext().traps[FloatOperation] = True
 
+# This is the file containing the necessary logic to find the 
+# optimal policy for a game of Pico Fermi Bagels 
 
 def initializePossibleAnswers(n=10):
     possible = set()
@@ -297,7 +299,7 @@ class OptimalGame:
         """
 
 
-cur_solve = 10
+cur_solve = 4
 g = OptimalGame(possible_guesses=initializePossibleAnswers(cur_solve))
 
 f = "out.json"

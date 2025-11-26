@@ -212,20 +212,15 @@ def use_training_guesser(answer=None):
 
 def single_game(guesser: Guesser = IntelligentGuesser("AI")):
     responder = ComputerResponder("AI")
-    g = Game(guesser, responder, 2000)
+    g = Game(guesser, responder, 9999)
     g.startGame()
 
 
 def main():
-    guesser = MCGuesser("MC")
-    g = []
-    for i in range(1000):
-        single_game(guesser)
-        g.append(guesser.guesses)
-        
-    print(g[:10])
-    print(g[-10:])
-    print(guesser.epsilon)
-        
+    single_game(MCGuesser("shev"))
+
+
+# it has 197 over 5
+# mm has 272 over 5
 if __name__ == "__main__":
     main()
