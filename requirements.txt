@@ -3,3 +3,4 @@ pickle
 json
 stringify
 decimal
+pypdf
