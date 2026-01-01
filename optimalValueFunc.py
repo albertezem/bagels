@@ -129,7 +129,7 @@ class OptimalGame:
         # Used this to make sure my cache works
         if f_str:
             with open(f_str, "w") as f:
-                records = [{"key": str(k), "value": str(v)} for k, v in g.cache.items()]
+                records = [{"key": str(k), "value": str(v)} for k, v in self.cache.items()]
 
                 json.dump(records, f, indent=2)
 
@@ -202,8 +202,8 @@ class OptimalGame:
             return result
 
         # If we have seen this state before, retrieve the optimal solution that we found previously
-        elif (frozenset(state), t) in g.cache:
-            return g.cache[(frozenset(state), t)]
+        elif (frozenset(state), t) in self.cache:
+            return self.cache[(frozenset(state), t)]
 
         # Find the best guess, save to cache, and return
         else:
